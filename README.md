@@ -15,7 +15,7 @@ The objective is to help support teams improve response times, reduce repeated i
 
 ---
 
-- `## 📂 Project Structure
+## 📂 Project Structure
 - `sql/queries.sql` → SQL analysis queries
 - `data/tickets.csv` → support ticket dataset
 - `excel/excel_dashboard.xlsx` → Excel pivot dashboard
@@ -45,7 +45,7 @@ The objective is to help support teams improve response times, reduce repeated i
 ---
 
 ## 📌 Portfolio Value
-This project demonstrates end-to-end data analysis workflow:
+This project demonstrates an end-to-end data analysis workflow:
 - data cleaning and import
 - SQL querying
 - Excel pivot reporting
@@ -56,4 +56,4 @@ This project demonstrates end-to-end data analysis workflow:
 ---
 
 ## 🚀 Outcome
-This project demonstrates how SQL querying and Power BI dashboarding can convert raw support ticket data into actionable business insights, helping teams improve SLA adherence, reduce backlog, and optimize operational efficiency.
+This project demonstrates how SQL querying and Power BI dashboarding convert raw support ticket data into actionable business insights, helping teams improve SLA adherence, reduce backlog, and optimize operational efficiency.
