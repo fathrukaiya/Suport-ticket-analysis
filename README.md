@@ -44,5 +44,16 @@ The objective is to help support teams improve response times, reduce repeated i
 
 ---
 
+## 📌 Portfolio Value
+This project demonstrates end-to-end data analysis workflow:
+- data cleaning and import
+- SQL querying
+- Excel pivot reporting
+- Power BI dashboarding
+- GitHub project documentation
+- business KPI storytelling
+
+---
+
 ## 🚀 Outcome
 This project demonstrates how SQL querying and Power BI dashboarding can convert raw support ticket data into actionable business insights, helping teams improve SLA adherence, reduce backlog, and optimize operational efficiency.
