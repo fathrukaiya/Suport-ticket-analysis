@@ -15,9 +15,10 @@ The objective is to help support teams improve response times, reduce repeated i
 
 ---
 
-## 📂 Project Structure
+- `## 📂 Project Structure
 - `sql/queries.sql` → SQL analysis queries
 - `data/tickets.csv` → support ticket dataset
+- `excel/excel_dashboard.xlsx` → Excel pivot dashboard
 - `dashboard/powerbi_screenshots.png` → dashboard screenshots
 - `README.md` → project documentation
 
