@@ -1,3 +1,21 @@
-
-
-
+﻿Ticket_ID,Ticket_Date,Client,Module,Priority,Status,Assigned_To,Resolution_Days
+1001,3/1/2026,ABC Ltd,Payroll,High,Open,Sara,5
+1002,3/2/2026,YBD Ltd,Leave,Medium,Closed,Aaish,2
+1003,3/3/2026,NALEEM TREADERS,Attendance,High,In Progress,Nshran,7
+1004,3/4/2026,NAVO GROUP,Employee Master,Medium,Closed,Shafee,1
+1005,3/5/2026,SUN HR,Recruitment,High,Open,Dilani,4
+1006,3/6/2026,Global Ltd,Onboarding,Medium,Closed,Nimal,6
+1007,3/7/2026,Clasic Creation,Reports,High,In Progress,Nimsha,3
+1008,3/8/2026,TSK Ltd,Perfotmance,Medium,Closed,Arshd,1
+1009,3/9/2026,Emit teil,Payroll,High,Open,Fazriya,3
+1010,3/10/2026,rolerl treand,Attendance,Medium,Closed,Zeineb,7
+1012,3/11/2026,GHJ Ltd,Onboarding,High,In Progress,Tharushi,9
+1013,3/12/2026,RTY Ltd,Employee Master,Medium,In Progress,Ruth,6
+1014,3/13/2026,Boing Group,Leave,High,Closed,Amash,3
+1015,3/14/2026,Smsung,Recruitment,High,Open,Sajeewa,1
+1016,3/15/2026,Camaye,Attendance,Medium,In Progress,Frenando,3
+1017,3/16/2026,Global Tarck,Reports,High,Open,Jeny,4
+1018,3/17/2026,Samuyel Rec,Payroll,Medium,Open,Nelon,5
+1019,3/18/2026,Core Fen,Recruitment,High,Closed,Geramy,6
+1020,3/19/2026,criss Tof,Recruitment,Medium,In Progress,hellan,5
+,,,Leave,Medium,Open,Onella,7
