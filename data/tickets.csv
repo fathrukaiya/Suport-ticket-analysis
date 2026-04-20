@@ -1,2 +1,22 @@
-ticket_id,category,status,priority
-1,Login Issue,Open,High
+
+Ticket_ID,Ticket_Date,Client,Module,Priority,Status,Assigned_To,Resolution_Days
+1001,2026--03-01,ABC Ltd,Payroll,High,Open,Sara,5
+1002,2026--03-02,YBD Ltd,Leave,Medium,Closed,Aaish,2
+1003,2026--03-03,NALEEM TREADERS,Attendance,High,In Progress,Nshran,7
+1004,2026--03-04,NAVO GROUP,Employee Master,Medium,Closed,Shafee,1
+1005,2026--03-05,SUN HR,Recruitment,High,Open,Dilani,4
+1006,2026--03-06,Global Ltd,Onboarding,Medium,Closed,Nimal,6
+1007,2026--03-07,Clasic Creation,Reports,High,In Progress,Nimsha,3
+1008,2026--03-08,TSK Ltd,Perfotmance,Medium,Closed,Arshd,1
+1009,2026--03-09,Emit teil,Payroll,High,Open,Fazriya,3
+1010,2026--03-10,rolerl treand,Attendance,Medium,Closed,Zeineb,7
+1012,2026--03-11,GHJ Ltd,Onboarding,High,In Progress,Tharushi,9
+1013,2026--03-12,RTY Ltd,Employee Master,Medium,In Progress,Ruth,6
+1014,2026--03-13,Boing Group,Leave,High,Closed,Amash,3
+1015,2026--03-14,Smsung,Recruitment,High,Open,Sajeewa,1
+1016,2026--03-15,Camaye,Attendance,Medium,In Progress,Frenando,3
+1017,2026--03-16,Global Tarck,Reports,High,Open,Jeny,4
+1018,2026--03-17,Samuyel Rec,Payroll,Medium,Open,Nelon,5
+1019,2026--03-18,Core Fen,Recruitment,High,Closed,Geramy,6
+1020,2026--03-19,criss Tof,Recruitment,Medium,In Progress,hellan,5
+,,,Leave,Medium,Open,Onella,7
